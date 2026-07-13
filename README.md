@@ -128,32 +128,16 @@ Predictive_Maintenance_Project/
 └── README.md
 
 
-
-##  How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/ayushmanral10-crypto/Oil-Gas-Predictive-Maintenance.git
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
+##  Project links:
+GitHub Repository: https://lnkd.in/dGNDYczZ](https://github.com/ayushmanral10-crypto/Oil-Gas-Predictive-Maintenance](https://github.com/ayushmanral10-crypto/Oil-Gas-Predictive-Maintenance.git
+Live Streamlit App Link: https://lnkd.in/dm3Xb3Zc](https://oil-gas-predictive-maintenance-sq7rg5cfgp6yogczhfwgvx.streamlit.app/
 
 ---
 
 ##  Project Screenshots
 
-> Add screenshots of:
+<img width="1906" height="826" alt="Screenshot 2026-07-13 180308" src="https://github.com/user-attachments/assets/9575a083-6586-4ac0-a2a8-7fef9106b3e2" />
+
 >
 > - EDA Visualizations
 > - Correlation Heatmap
