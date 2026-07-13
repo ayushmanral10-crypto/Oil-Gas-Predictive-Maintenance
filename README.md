@@ -70,7 +70,7 @@ The following models were trained and evaluated:
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
 |------|---------:|----------:|--------:|---------:|---------:|
 | Logistic Regression | 94.03% | 40.00% | 3.39% | 6.25% | 51.50% |
-| **Logistic Regression (Balanced)** ⭐ | **78.01%** | 20.00% | **91.53%** | 32.83% | **84.00%** |
+| **Logistic Regression (Balanced)**   | **78.01%** | 20.00% | **91.53%** | 32.83% | **84.00%** |
 | Random Forest | 91.34% | 31.58% | 40.68% | **35.56%** | 67.59% |
 | XGBoost | 94.03% | **46.15%** | 10.17% | 16.67% | 54.71% |
 
