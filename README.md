@@ -136,8 +136,7 @@ Live Streamlit App Link: https://lnkd.in/dm3Xb3Zc](https://oil-gas-predictive-ma
 
 ##  Project Screenshots
 
-<img width="1917" height="822" alt="Screenshot 2026-07-13 180342" src="https://github.com/user-attachments/assets/dfa3331d-cbda-4d86-a9fb-e48ff0ffa31c" />
-<img width="1906" height="826" alt="Screenshot 2026-07-13 180308" src="https://github.com/user-attachments/assets/b5b0d565-0abe-4360-98cb-38ad882589d3" />
+<img width="1392" height="577" alt="image" src="https://github.com/user-attachments/assets/de3a4c4c-0bbc-43c3-9018-c3998c666797" />
 
 >
 > - EDA Visualizations
