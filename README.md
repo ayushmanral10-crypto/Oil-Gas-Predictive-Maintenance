@@ -142,7 +142,8 @@ Live Streamlit App Link: https://oil-gas-predictive-maintenance-sq7rg5cfgp6yogcz
 ##  Project Screenshots
 
 
-![Uploading image.png…]()
+<img width="1906" height="826" alt="Screenshot 2026-07-13 180308" src="https://github.com/user-attachments/assets/88e93aea-d32f-4758-8893-49d57c643c43" />
+
 
 > - EDA Visualizations
 > - Correlation Heatmap
