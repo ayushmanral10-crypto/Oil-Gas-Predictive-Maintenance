@@ -118,6 +118,7 @@ The application allows users to:
 
 
 Predictive_Maintenance_Project/
+
 │
 
 ├── app.py
@@ -151,6 +152,7 @@ Live Streamlit App Link: https://oil-gas-predictive-maintenance-sq7rg5cfgp6yogcz
 
 <img width="1906" height="826" alt="Screenshot 2026-07-13 180308" src="https://github.com/user-attachments/assets/88e93aea-d32f-4758-8893-49d57c643c43" />
 
+<img width="1917" height="822" alt="Screenshot 2026-07-13 180342" src="https://github.com/user-attachments/assets/b4f9d751-7fd4-4bc5-be91-47deddce221e" />
 
 > - EDA Visualizations
 > - Correlation Heatmap
