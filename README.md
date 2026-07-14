@@ -119,12 +119,19 @@ The application allows users to:
 
 Predictive_Maintenance_Project/
 │
+
 ├── app.py
+
 ├── predictive_maintenance_model.pkl
+
 ├── scaler.pkl
+
 ├── Oil_Gas_Predictive_Maintenance.ipynb
+
 ├── Oil_Gas_Predictive_Maintenance.xlsx
+
 ├── requirements.txt
+
 └── README.md
 
 ---
