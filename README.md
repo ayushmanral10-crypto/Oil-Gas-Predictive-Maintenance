@@ -127,10 +127,12 @@ Predictive_Maintenance_Project/
 ├── requirements.txt
 └── README.md
 
+---
 
 
 ##  Project links:
 GitHub Repository: https://github.com/ayushmanral10-crypto/Oil-Gas-Predictive-Maintenance.git
+
 Live Streamlit App Link: https://oil-gas-predictive-maintenance-sq7rg5cfgp6yogczhfwgvx.streamlit.app/
 
 
